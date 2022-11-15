@@ -1,4 +1,4 @@
-module go-sh
+module github.com/xxxlzj520/go-sh
 
 go 1.18
 
