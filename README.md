@@ -3,6 +3,7 @@
 [![Go Walker](http://gowalker.org/api/v1/badge)](http://gowalker.org/github.com/codeskyblue/go-sh)
 
 *If you depend on the old api, see tag: v.0.1*
+install: `go get github.com/xxxlzj520/go-sh`
 
 install: `go get github.com/xxxlzj520/go-sh`
 install: `go get github.com/codeskyblue/go-sh`
